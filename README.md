@@ -1,5 +1,5 @@
 # Snake
-The classic game Snake!<br/> 
+######The classic game Snake!<br/> 
 Re-imagined and developed by Tyler Chapp.<br/>
 *My "Hello, World!" of video-game development*
 
