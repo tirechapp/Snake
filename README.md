@@ -1,6 +1,6 @@
 # Snake
 **The classic video game, Snake!**<br/> 
-Re-imagined and developed by Tyler Chapp.<br/>
+Re-imagined and developed by Tyler Chapp<br/>
 *My "Hello, World!" of video-game development*
 
 ## About
