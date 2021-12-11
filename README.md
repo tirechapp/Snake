@@ -20,7 +20,7 @@ or to any file contained in this repository.
 <br/>        
     Mac & Linux users:<br/>
         sudo apt-get install python<br/>
-        (this command may vary based on your system's package manager!)<br/>
+        *(this command may vary based on your system's package manager!)*<br/>
 <br/>  
 **2>** Install Pygame from cmd or terminal<br/>
 <br/>
