@@ -2,7 +2,8 @@
 **The classic video game, Snake!**<br/> 
 Re-imagined and developed by Tyler Chapp<br/>
 *My "Hello, World!" of video-game development*
-
+<br/>
+<br/>
 ## About
 Snake.py was created as an introduction to basic video game devlopment with Python.<br/> 
 Follow the steps in this README to download and play the game, Snake.<br/>
@@ -11,7 +12,8 @@ Feel free to make modifications to *your own copy of Snake.py* for any personal 
 <br/>
 This repository will not accept any pushes, merges, contributions, or modifications in any form to the source code of Snake.py<br/> 
 or to any file contained in this repository. 
-
+<br/>
+<br/>
 ## Usage
 **1>** Download and Install Python if you don't have it installed already<br/>
 <br/>
@@ -53,7 +55,8 @@ or to any file contained in this repository.
         Execute the following command:<br/>
             python3 Snake.py<br/>
                 **The game will now launch!**
-                
+<br/>
+<br/>
 ## License         
 This project is licensed under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).
         
