@@ -42,7 +42,7 @@ or to any file contained in this repository.
             Example: **C:\Users\tyler\Downloads**<br/>
 <br/>            
          Execute the following commands:<br/>
-            cd C:\Users\tyler\Downloads (replace C:\Users\tyler\Downloads with your own directory address)<br/>
+            cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)*<br/>
             python Snake.py<br/>
               **The game will now launch!**<br/>
 <br/>            
