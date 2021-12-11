@@ -13,7 +13,7 @@ This repository will not accept any pushes, merges, contributions, or modificati
 or to any file contained in this repository. 
 
 ## Usage
-1> Download and Install Python if you don't have it installed already<br/>
+**1>** Download and Install Python if you don't have it installed already<br/>
 <br/>
     Windows users:<br/>
         https://www.python.org/downloads/<br/>
@@ -22,7 +22,7 @@ or to any file contained in this repository.
         sudo apt-get install python<br/>
         (this command may vary based on your system's package manager!)<br/>
 <br/>  
-2> Install Pygame from cmd or terminal<br/>
+**2>** Install Pygame from cmd or terminal<br/>
 <br/>
     Windows users:<br/>
         python -m pip install pygame<br/>
@@ -30,9 +30,9 @@ or to any file contained in this repository.
     Mac & Linux users:<br/>
         pip install pygame<br/>
 <br/>    
-3> Download **Snake.py** located in this repository<br/>
+**3>** Download **Snake.py** located in this repository<br/>
 <br/>       
-4> Via cmd or terminal<br/>
+**4>** Via cmd or terminal<br/>
 <br/>
     Windows users:<br/>
         Change directories to the location of Snake.py<br/>
@@ -44,7 +44,7 @@ or to any file contained in this repository.
          Execute the following commands:<br/>
             cd C:\Users\tyler\Downloads (replace C:\Users\tyler\Downloads with your own directory address)<br/>
             python Snake.py<br/>
-              **the game will now launch!**<br/>
+              **The game will now launch!**<br/>
 <br/>            
     Mac & Linux users:<br/>
         Change directories to the location of Snake.py<br/>
