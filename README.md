@@ -10,8 +10,8 @@ Follow the steps in this README to download and play the game, Snake.<br/>
 <br/>
 Feel free to make modifications to *your own copy of Snake.py* for any personal or professional use.<br/>
 <br/>
-This repository will not accept any pushes, merges, contributions, or modifications in any form to the source code of Snake.py<br/> 
-or to any file contained in this repository. 
+This repository will not accept any pushes, merges, contributions, or modifications in any form to the source code<br/> 
+of Snake.py or to any file contained in this repository.<br/> 
 <br/>
 <br/>
 ## Usage
