@@ -9,7 +9,7 @@ Developed by Tyler Chapp<br/>
 <br/>
     Windows users:<br/>
         https://www.python.org/downloads/<br/>
-        *(make you add select the option to add python to PATH during installation)*
+        *(make you select the option to add python to PATH during installation)*
 <br/>        
     Mac & Linux users:<br/>
         sudo apt-get install python<br/>
