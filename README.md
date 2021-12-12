@@ -34,16 +34,15 @@ Developed by Tyler Chapp<br/>
           <br/>
             Example: **C:\Users\tyler\Downloads**<br/> 
             Change directories to the location of Snake.py<br/>
-            ###### cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)* ######<br/>
-            python Snake.py<br/>
+###### cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)* ######<br/>
+###### python Snake.py ######<br/> 
               **The game will now launch!**<br/>
 <br/>            
     Mac & Linux users:<br/>
         Change directories to the location of Snake.py<br/>
-            cd ~/Downloads<br/>
-<br/>            
-        Execute the following command:<br/>
-            python3 Snake.py<br/>
+        <br/>
+###### cd ~/Downloads ######<br/>           
+###### python3 Snake.py<br/> ######
                 **The game will now launch!**
 <br/>
 <br/>
