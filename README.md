@@ -41,9 +41,9 @@ python Snake.py<br/>
               **The game will now launch!**<br/>
 <br/>            
     Mac & Linux users:<br/>
-        Change directories to the location of Snake.py<br/>
-        <br/>
-cd ~/Downloads<br/>           
+        Change directories to the location of Snake.py:<br/>
+cd ~/Downloads<br/>
+Execute the file with this command:
 python3 Snake.py<br/>
                 **The game will now launch!**
 <br/>
