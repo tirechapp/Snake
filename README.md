@@ -34,7 +34,7 @@ Developed by Tyler Chapp<br/>
           copying the address at the top of the window)*<br/>
           <br/>
             Example: **C:\Users\tyler\Downloads**<br/> 
-            Change directories to the location of Snake.py<br/>
+            Change directories to the location of Snake.py with the following command:<br/>
 cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address)*<br/>
 Execute the file with this command:<br/>
 python Snake.py<br/> 
