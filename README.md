@@ -36,6 +36,7 @@ Developed by Tyler Chapp<br/>
             Example: **C:\Users\tyler\Downloads**<br/> 
             Change directories to the location of Snake.py<br/>
 cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address)*<br/>
+Execute the file with this command:<br/>
 python Snake.py<br/> 
               **The game will now launch!**<br/>
 <br/>            
