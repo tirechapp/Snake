@@ -2,8 +2,6 @@
 **The classic video game, Snake!**<br/> 
 Developed by Tyler Chapp<br/>
 *My "Hello, World!" of video-game development*
-<br/>
-<br/>
 ## Usage
 **1> Download and Install Python if you don't have it installed already**<br/>
 <br/>
