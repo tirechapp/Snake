@@ -25,7 +25,7 @@ Developed by Tyler Chapp<br/>
 <br/>    
 **3>** Download **Snake.py** located in this repository<br/>
 <br/>       
-**4>** Launch the game from cmd or terminal<br/>
+######**4>** Launch the game from cmd or terminal<br/>######
 <br/>
     Windows users:<br/>
         Change directories to the location of Snake.py<br/>
