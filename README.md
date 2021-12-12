@@ -13,8 +13,8 @@ Developed by Tyler Chapp<br/>
 <br/>        
     Mac & Linux users:<br/>
         sudo apt-get install python<br/>
-        *(this command may vary based on your system's package manager!<br/> 
-        apt is the default package manager for most Debian based distros*<br/>
+        *(this command may vary based on your system's package manager<br/> 
+        apt is the default package manager for most Debian based distros)*<br/>
 <br/>  
 **2> Install Pygame from cmd or terminal**<br/>
 <br/>
