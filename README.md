@@ -13,7 +13,8 @@ Developed by Tyler Chapp<br/>
 <br/>        
     Mac & Linux users:<br/>
         sudo apt-get install python<br/>
-        *(this command may vary based on your system's package manager!)*<br/>
+        *(this command may vary based on your system's package manager!<br/> 
+        apt is the default package manager for Debian, Ubuntu, and Linux Mint)*<br/>
 <br/>  
 **2> Install Pygame from cmd or terminal**<br/>
 <br/>
@@ -34,7 +35,7 @@ Developed by Tyler Chapp<br/>
           <br/>
             Example: **C:\Users\tyler\Downloads**<br/> 
             Change directories to the location of Snake.py<br/>
-cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)* ######<br/>
+cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)*<br/>
 python Snake.py<br/> 
               **The game will now launch!**<br/>
 <br/>            
