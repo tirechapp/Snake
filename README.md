@@ -30,12 +30,12 @@ Developed by Tyler Chapp<br/>
 <br/>
     Windows users:<br/>
         Copy the location of the directory containing the Snake.py file<br/>
-        (This can be accomplished by navigating via file explorer to the directory containing Snake.py and<br/>
-          copying the address at the top of the window)<br/>
+        *(This can be accomplished by navigating via file explorer to the directory containing Snake.py and<br/>
+          copying the address at the top of the window)*<br/>
           <br/>
             Example: **C:\Users\tyler\Downloads**<br/> 
             Change directories to the location of Snake.py<br/>
-cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)*<br/>
+cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address)*<br/>
 python Snake.py<br/> 
               **The game will now launch!**<br/>
 <br/>            
