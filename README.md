@@ -33,11 +33,16 @@ Developed by Tyler Chapp<br/>
         *(This can be accomplished by navigating via file explorer to the directory containing Snake.py and<br/>
           copying the address at the top of the window)*<br/>
           <br/>
-            Example: **C:\Users\tyler\Downloads**<br/> 
+            Example: **C:\Users\tyler\Downloads**<br/>
+            <br/>
             Change directories to the location of Snake.py with the following command:<br/>
+            <br/>
 cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address)*<br/>
+<br/>
 Execute the file with the following command:<br/>
-python Snake.py<br/> 
+<br/>
+python Snake.py<br/>
+<br/>
               **The game will now launch!**<br/>
 <br/>            
     Mac & Linux users:<br/>
@@ -50,8 +55,3 @@ python3 Snake.py<br/>
 <br/>
 ## License         
 This project is licensed under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).
-        
-    
-
-    
-
