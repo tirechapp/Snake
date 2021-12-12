@@ -37,7 +37,8 @@ Developed by Tyler Chapp<br/>
             <br/>
             Change directories to the location of Snake.py with the following command:<br/>
             <br/>
-cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address)*<br/>
+cd C:\Users\tyler\Downloads <br/>
+*(replace C:\Users\tyler\Downloads with your own directory address)*<br/>
 <br/>
 Execute the file with the following command:<br/>
 <br/>
