@@ -4,11 +4,6 @@ Developed by Tyler Chapp<br/>
 *My "Hello, World!" of video-game development*
 <br/>
 <br/>
-## About
-Snake.py was created as an introduction to basic video game devlopment with Python.<br/> 
-Follow the steps in this README to download and play the game, Snake.
-<br/>
-<br/>
 ## Usage
 **1>** Download and Install Python if you don't have it installed already<br/>
 <br/>
