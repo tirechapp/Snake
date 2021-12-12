@@ -9,6 +9,7 @@ Developed by Tyler Chapp<br/>
 <br/>
     Windows users:<br/>
         https://www.python.org/downloads/<br/>
+        *(make you add python to PATH during installation)*
 <br/>        
     Mac & Linux users:<br/>
         sudo apt-get install python<br/>
@@ -24,16 +25,15 @@ Developed by Tyler Chapp<br/>
 <br/>    
 **3>** Download **Snake.py** located in this repository<br/>
 <br/>       
-**4>** Via cmd or terminal<br/>
+**4>** Launch the game from cmd or terminal<br/>
 <br/>
     Windows users:<br/>
         Change directories to the location of Snake.py<br/>
         Copy the location of the directory containing the Snake.py file<br/>
         (This can be accomplished by navigating via file explorer to the directory containing Snake.py and<br/>
           copying the address at the top of the window)<br/>
-            Example: **C:\Users\tyler\Downloads**<br/>
-<br/>            
-         Execute the following commands:<br/>
+          <br/>
+            Example: **C:\Users\tyler\Downloads**<br/>      
             cd C:\Users\tyler\Downloads *(replace C:\Users\tyler\Downloads with your own directory address!)*<br/>
             python Snake.py<br/>
               **The game will now launch!**<br/>
